@@ -20,11 +20,11 @@
 
     "UI-DISTILLEDWATER": "Distilled Water",
     "UI-HCL-S": "Hydrochloric Acid",
-    "UI-NAHCO3-C": "NaHCO<sub>3</sub>",
-    "UI-NAOH-C": "NaOH",
+	"UI-NAHCO3-C": "NaHCO<sub>3</sub>",
+	"UI-NAOH-C": "NaOH",
 
     "UI-1-1-1": "Dr. Brown is teaching his students about chemical reactions.",
-    "UI-1-1-2": "Of course, there is no other pracitical way to learn than actually seeing different chemical reactions occurring in real time.",
+    "UI-1-1-2": "Of course, there is no other practical way to learn than actually seeing different chemical reactions occurring in real time.",
     "UI-1-1-3": "Dr. Brown came up with a great idea to let his students observe these chemical reactions in his chemical substrate incubator.",
     "UI-1-1-4": "Where chemical substrates flow from the ceiling to the floor and re-circulate to keep them fresh.",
     "UI-1-1-5": "The wacky genius scientist and his students will all be wearing special designed protective gears.",
@@ -33,7 +33,7 @@
     "UI-3-1-Header": "Color Change",
     "UI-3-1-Table": "Phenolphthalein reaction",
     "UI-3-1": "A color change in a substance \n can be evidence \n of a chemical reaction.",
-    "UI-3-1-2": "Let's start today lesson with Sodium Hydroxide, Hydrocholoric acid and Phenolphthalein reaction.",
+    "UI-3-1-2": "Let's start today lesson with Sodium Hydroxide, Hydrochloric acid and Phenolphthalein reaction.",
     "UI-3-1-3": "Dr. Brown, what is Phenolphthalein?",
     "UI-3-1-4": "Phenolphthalein is a universal indicator, which means it changes color to show the pH of certain solutions.",
     "UI-3-1-4-1": "Phenolphthalein stays colorless in acidic solutions and turns pink in alkaline solutions.",
@@ -81,8 +81,8 @@
     "UI-3-2-4-5": "The calcium chloride solution gets hot then energy is released that energy goes into the water,",
     "UI-3-2-4-6": "and so the temperature of the system goes up.",
 
-    "UI-3-2-7-3": "Make the temperature increase",
-    "UI-3-2-7-2": "Make the temperature decrease",
+    "UI-3-2-7-3": "Make the temperature decrease",
+    "UI-3-2-7-2": "Make the temperature increase",
 
     "UI-3-3-Table": "Gas Release reaction",
     "UI-3-3-Header": "Gas Release",
@@ -113,10 +113,10 @@
     "UI-3-5-3-3": "When we add that silver nitrate to the sodium chloride solution, we can see there it forms this milky substance",
 
     "UI-3-5-4-1": "When the sodium chloride solution is added to the silver nitrate solution, a white precipitate, insoluble silver chloride, is formed.",
-	"UI-3-5-7-1": "Create a precipitation reaction with NaCL",
-	"UI-3-5-7-2": "Create a precipitation reaction with AgNO<sub>3</sub>", 
+    "UI-3-5-7-1": "Create a precipitation reaction with AgNO<sub>3</sub>", 
+	  "UI-3-5-7-2": "Create a precipitation reaction with NaCL",
 
 
-	"UI-4-1": "Congratulations! \n Thank you\n for playing!"
+	  "UI-4-1": "Congratulations! \n Thank you\n for playing!"
   }
 }
