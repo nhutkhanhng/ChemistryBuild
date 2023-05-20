@@ -1,122 +1,120 @@
 {
   "en": {
-    "UI_CONTINUE": "Continue",
-    "UI_NEWGAME": "New Game",
-    "UI_PLAY": "Play",
-    "UI_NEXT": "Next",
-    "UI_CLICK_ME": "Click here!",
-    "UI_TAP_TO_CONTINUE": "Tap to continue!",
-    "UI-WOW": "Wow!",
-    "UI-That-Is-Amazing": "That's Amazing",
-    "UI-LETS-START": "Let's Started!",
-    "UI-Target": "Target",
-    "UI-Moves": "Moves",
-    "UI-CACL-T": "Calcium Chloride",
-    "UI-Click-Me": "Click here!",
-    "UI_Theory": "Theory",
-    "UI-Effectuate": "Effectuatue",
-    "UI-GAME-NAME": "Dr. Brown \n - Chemical Harvest",
-    "UI-WELL-DONE": "Well \tDone!",
+    "welcome": "Welcome!",
+    "UI-Control-Instruction": "You can use W\\A\\S\\D to move Up\\Left\\Down\\Right movement",
+    "UI-Let-Start": "Let's Start!",
+    "UI-Let-Journey": "Let's start the journey to find the virus",
 
-    "UI-DISTILLEDWATER": "Distilled Water",
-    "UI-HCL-S": "Hydrochloric Acid",
-	"UI-NAHCO3-C": "NaHCO<sub>3</sub>",
-	"UI-NAOH-C": "NaOH",
-
-    "UI-1-1-1": "Dr. Brown is teaching his students about chemical reactions.",
-    "UI-1-1-2": "Of course, there is no other practical way to learn than actually seeing different chemical reactions occurring in real time.",
-    "UI-1-1-3": "Dr. Brown came up with a great idea to let his students observe these chemical reactions in his chemical substrate incubator.",
-    "UI-1-1-4": "Where chemical substrates flow from the ceiling to the floor and re-circulate to keep them fresh.",
-    "UI-1-1-5": "The wacky genius scientist and his students will all be wearing special designed protective gears.",
-    "UI-1-1-6": "It is important to adhere to safety precautions during chemical experiments.",
-
-    "UI-3-1-Header": "Color Change",
-    "UI-3-1-Table": "Phenolphthalein reaction",
-    "UI-3-1": "A color change in a substance \n can be evidence \n of a chemical reaction.",
-    "UI-3-1-2": "Let's start today lesson with Sodium Hydroxide, Hydrochloric acid and Phenolphthalein reaction.",
-    "UI-3-1-3": "Dr. Brown, what is Phenolphthalein?",
-    "UI-3-1-4": "Phenolphthalein is a universal indicator, which means it changes color to show the pH of certain solutions.",
-    "UI-3-1-4-1": "Phenolphthalein stays colorless in acidic solutions and turns pink in alkaline solutions.",
-
-    "UI-3-1-5-Header": "pH scale",
-    "UI-3-1-5-1": "The pH scale ranges from 0 to 14.",
-    "UI-3-1-5-2": "If the pH is less than 7 the solution is acidic. \n If the pH is 7 the solution is neutral and \n If the pH is greater than 7 the solution is basic.",
-
-    "UI-3-1-6-1": "Put two equal amounts of phenolphthalein indicator.",
-    "UI-3-1-6-2": "Add the still water to both of them.",
-
-    "UI-3-1-6-3": "What do you observe the indicators color doesn't change.",
-    "UI-3-1-6-4": "Therefore phenolphthalein is colorless in the neutral medium.",
-    "UI-3-1-6-5": "Add 4 drops of sodium hydroxide solution to the indicator in the first test tube.",
-    "UI-3-1-6-6": "What do you observe? The color of the indicator turns red.",
-    "UI-3-1-6-7": "Therefore the phenolphthalein indicator turns red in the basic medium.",
-    "UI-3-1-6-8": "A drops of hydrochloric acid to the indicator in the second test tube.",
-    "UI-3-1-6-9": "What do you observe? The color of the indicator doesn't change and turn corlorless in the first tube.",
-    "UI-3-1-6-10": "Therefore the phenolphthalein indicator is colorless in the acidic.",
-
-    "UI-3-1-7-1": "Let's apply our knowledge into a minigame!",
-
-    "UI-3-1-7-2": "Turn Phenolphthalein to <color=white>White</color>",
-    "UI-3-1-7-3": "Turn Phenolphthalein to <color=#FF0090>Pink</color>",
-
-    "UI-3-2-Table": "Temperature Change reaction",
-    "UI-3-2-Header": "Temperature Change",
-    "UI-3-2-1": "A temperature change in a substance can be evidence of a chemical reaction.",
-
-    "UI-3-2-2-1": "We will do exothermic and endothermic reactions in this lesson.",
-    "UI-3-2-2-2": "Dr. Brown, what is exothermic and endothermic reactions?",
-
-    "UI-3-2-3-1": "An exothermic reaction gives off energy to the surroundings and this energy is usually heat energy.",
-    "UI-3-2-3-2": "They cause the surroundings to heat up, just like a bonfire keeping everyone warm.",
-    "UI-3-2-3-3": "Endothermic reactions take in energy from the surroundings.",
-    "UI-3-2-3-4": "So in endothermic reactions the surroundings usually get colder.",
-
-    "UI-3-2-4-1-1": "Add water into",
-    "UI-3-2-4-1-2": "Take the solid ammonium chloride which is a white crystalline solid poured into a beaker full of water and as it dissolves.",
-
-    "UI-3-2-4-2": "We'll see the temperature dropped quite radically.",
-    "UI-3-2-4-3": "Then we set up An exothermic reaction.",
-    "UI-3-2-4-4-SUB": "Add some water.",
-    "UI-3-2-4-4": "You dissolve calcium chloride in water.",
-    "UI-3-2-4-5": "The calcium chloride solution gets hot then energy is released that energy goes into the water,",
-    "UI-3-2-4-6": "and so the temperature of the system goes up.",
-
-    "UI-3-2-7-3": "Make the temperature decrease",
-    "UI-3-2-7-2": "Make the temperature increase",
-
-    "UI-3-3-Table": "Gas Release reaction",
-    "UI-3-3-Header": "Gas Release",
-    "UI-3-3-1": "The release of a gas can be evidence of a chemical reaction.",
-    "UI-3-3-2-1": "We have a very interesting experiment called the Magic Balloons.",
-    "UI-3-3-2-2": "What's that reaction, professor?",
-    "UI-3-3-2-3": "Let's do it together!",
-
-    "UI-3-4-1": "Carefully place the balloon half filled with Sodium bicarbonate over the neck of the Citric acid C6H8O7 bottle.",
-    "UI-3-4-2": "Allow it to droop over to the side and making sure none of the Sodium bicarbonate falls into the bottle.",
-    "UI-3-4-3": "Lift the end of the balloon and pour the Sodium bicarbonate into the bottle.",
-    "UI-3-4-4": "Shake well and place the bottle on a table. Watch the balloon inflate all by itself!",
-
-    "UI-3-4-5-1": "When you add Sodium Bicarbonate to the Citric Acid it causes a reaction.",
-    "UI-3-4-5-2": "That reaction releases a gas called carbon dioxide (CO2).",
-    "UI-3-4-5-3": "Because the balloon forms a seal around the bottle, the gas produced cannot escape, so it fills up the balloon.",
-
-    "UI-3-4-7-1": "Blow up the balloon.",
-
-
+    "UI-I-Will-Beat-You": "I will beat you!",
+    "UI_TapToContinue": "Tap to continue",
+    "UI-Continue": "Continue",
+    "UI-NewGame": "New Game",
+    "UI-Dangerous": "Dangerous!",
+    "UI-Keep-Going": "Keep going!",
+    "UI-BeCareful": "Be careful!",
+    "UI-BeCareful-1": "be careful, the virus is coming",
     
-    "UI-3-5-Table": "Sodium chloride \n and silver nitrate reaction",
-    "UI-3-5-Header": "Precipitate Formation",
-    "UI-3-5-1": "The formation of a precipitate can be evidence of a chemical reaction.",
-    "UI-3-5-2": "We're going to do a chemical reaction with a very familiar chemical, which is table salt",
-    "UI-3-5-3-1": "Here! We've got our test tube filled with sodium chloride and we're gonna add some of our silver nitrate to the sodium chloride",
-    "UI-3-5-3-2": "So what's going to happen ?",
-    "UI-3-5-3-3": "When we add that silver nitrate to the sodium chloride solution, we can see there it forms this milky substance",
+    "UI-1-1": "Dr. Brown has just discovered a new virus that infects many different cells in the human body.",
+    "UI-1-2": "While Dr. Brown is still testing and studying this virus in his lab",
+    "UI-1-3": "one of his mischievous students - Andy found the way into the storage area and accidentally got infected with this virus.",
+    "UI-1-4": "Dr. Brown returned to his lab and found Andy acting very strange.",
+    "UI-1-5": "Seeing the door to the storage area opened, Dr. Brown immediately knew his student had contracted the virus.",
 
-    "UI-3-5-4-1": "When the sodium chloride solution is added to the silver nitrate solution, a white precipitate, insoluble silver chloride, is formed.",
-    "UI-3-5-7-1": "Create a precipitation reaction with AgNO<sub>3</sub>", 
-	  "UI-3-5-7-2": "Create a precipitation reaction with NaCL",
+    "UI-1-6": "Luckily, just 2 weeks ago, Dr. Brown has finished his newest invention",
+    "UI-1-6-1": "the “Minimizer” capsule that allows anyone inside the engine to be minimized to quantum size to allow him to study the human body",
+    "UI-1-7": "Dr.Brown came up with a plan, he used the \"minimizer\", Micronized himself to be able to search for the virus",
+
+    "UI-2-1": "In multicellular organisms, the body is a system of multiple interacting subsystems.",
+    "UI-2-2": "These subsystems are groups of cells that work together.",
+    "UI-2-3": "They form tissues and organs that are specialized for particular body functions",
+    "UI-2-4": "Let's get started!",
 
 
-	  "UI-4-1": "Congratulations! \n Thank you\n for playing!"
+    "UI-3-1": "There are trillions of cells in the human body. These cells form different types of tissue/wait:1//close/",
+    "UI-3-2": "which form all the organs and systems in the human body. /wait:1//close/",
+    "UI-3-3": "Organ systems work together to carry out the life functions of an organism /wait:1//close/",
+    "UI-3-4": "There are five systems that we need to help Andy get rid of the viruses. /wait:1//close/",
+    "UI-3-5": "Click on a system you want to explore and let our journey begin /wait:1/",
+
+    "UI-4-1-1": "Nervous tissues in an organism detect and respond to stimuli.",
+    "UI-4-1-1-1": "We are in Andy's Nervous system. The nervous system responds to stimuli in the environment and controls voluntary and involuntary actions in the human body",
+    "UI-4-1-2": "We are in Andy's Nervous system",
+    "UI-4-1-3": "The nervous system responds to stimuli in the environment and controls voluntary and involuntary actions in the human body.",
+    "UI-4-1-4": "Look out! We found the first virus.",
+    "UI-4-Tutorial": "Merge the balls to attack the virus. Your damage is equal to the amount of balls so merge as many balls as possible!",
+
+    "UI-Chat-Virus-Delicous": "I will make you sick!",
+    "UI-Chat-DrBrown-Beat": "I will beat you!",
+    "UI-Chat-DrBrown-Dangerous": "Dangerous!",
+
+    "UI-KeepSearching": "Keep searching for the virus!",
+    "UI-4-1-5": "WOW! Calm down! there's nothing to be afraid of, All living organisms contain one or more cells.",
+
+    "UI-4-2-1": "The skeletal system provides structural support and helps the human body move.",
+    "UI-4-2-2": "We are inside Andy's arm.",
+    "UI-4-2-3": "That's his arm's muscle. The muscular system helps the human body move and carry out internal body functions.",
+
+
+    "UI-4-2-MiniBattle": " Here you are! let's destroy it!",
+
+    "UI-4-2-4": "In a human body, the nervous, muscular, and skeletal systems work together to allow for body movement.",
+    "UI-4-2-5": "Muscle tissues in an organism contract and relax to allow voluntary and involuntary movements.",
+
+    "UI-4-2-Boss": "Hahaha! Your journey here is over",
+    "UI-4-3-Boss": "Hahaha! Your journey here is over",
+    "UI-4-3-1": "In a human body, the respiratory and circulatory system cycles gases between the environment and the blood stream.",
+    "UI-4-3-2": "We're in the respiratory system which helps the human body take in oxygen and release carbon dioxide.",
+    "UI-4-3-3": "Here's another one, let's prepare for battle",
+
+    "UI-4-3-4": "The circulatory system helps move blood, nutrients, and gases throughout the human body.",
+
+    "UI-4-4-0": "Currently! We are entering the circulatory system",
+    "UI-4-4-1": "In a human body, the digestive and excretory systems work together to absorb nutrients and remove wastes from the body.",
+    "UI-4-4-2": "The digestive system helps the body break down food, absorb nutrients, and remove wastes from the body.",
+    "UI-4-4-3": "Obtaining and processing nutrients for growth is a life function of an organism.",
+
+    "UI-4-4-4-Enemy": "we will damage your circulatory system",
+    "UI-4-4-Boss": "You can't scare me. Are you ready? Let's fight!",
+
+
+
+    "UI-4-5": "We are inside Andy's endocrine system.",
+    "UI-4-5-1": "The endocrine system releases hormones into the bloodstream that help a human carry out life functions",
+    "UI-4-5-2": "The integumentary system provides protection to the human body and helps maintain homeostasis.",
+    "UI-4-5-3": "Wow! that virus is enormous!",
+
+
+
+    "UI-4-Final": "Mission complete! We has successfully cleared student’s body of the virus. It's time to get out",
+
+    "UI-7-1": "After destroying the virus that caused the disease, DrBrown healed his student",
+    "UI-7-2":  "Thank you very much! Dr.Brown",
+    "UI-8-1": "Congratulations! Thanks to you, Andy is now free from the virus",
+
+    "UI-Chat-Boss": "Hahaha! Your journey here is over",
+    "UI-DrBrown-Reply-Boss": "That is yours",
+    "UI-DrBrown-Reply-Boss-1": "You can't scare me. Are you ready? Let's fight!",
+    "UI-DrBrown-Reply-Boss-2": "I will beat you",
+    "UI-DrBrown-Reply-Boss-3": "I will eliminate you",
+
+    "UI-Virus-Reply-Nervous": "We will make you tired and exhausted",
+    "UI-Virus-Reply-1": "You are Delicous !",
+    "UI-Virus-Reply-2": "we will make you sick",
+    "UI-Congratulation": "Congratulation! \nYou Win!",
+    "UI-Congratulation-Minigame":"Congratulation!",
+
+
+    "UI-Great-Job": "Great job!",
+    "UI-Excellent": "You are excellent!",
+    "UI-Continue-Journey": "Let's continue the journey!",
+
+
+    "pressContinue": "Press the next button to continue.",
+    "onePlusOne": "One + One = Two",
+    "newGame": "New Game",
+    "continue": "Continue",
+    "pantry": "Pantry",
+    "purchasePan": "Purchase Pan  <color=#F9DD3B>{0}</color>",
+    "autoSave": "...Auto Saving Complete"
   }
 }
